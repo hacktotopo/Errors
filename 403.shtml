@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Xyudev - 403 Error</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Xyudev"/>
+    <meta name="keywords" content="Xyudev"/>
+    <meta name="description" content="Xyudev - 403 Error"/>
+	
+    <link rel="stylesheet" type="text/css" media="all" href="errors/xyudev.css">
+    <link href='http://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
+
+    <!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	< ![endif]-->
+
+	<script type="text/javascript" charset="utf-8" src="errors/jquery-1.8.3.js"></script>
+	<script type="text/javascript" charset="utf-8" src="errors/plax.js"></script>
+	<script type="text/javascript" charset="utf-8" src="errors/errors.js"></script>
+</head>
+
+	<body>
+        <div id="sky">    
+				<div id="wrapper" class="clearfix">     
+                    <div id="parallax">    
+                        <div id="contenido">
+                            <h1>ERROR<br />403</h1>
+                            <p>La página que está buscando no está aquí.</p>
+                            <a href="http://xyudev.com" title="Xyudev Go Back" class="logo"><img src="errors/xyudev.png" alt="Logo Xyudev"></a>
+
+                            <section>
+                                <div class="icono fb">
+                                    <a href="https://www.facebook.com/Xyudev" title="Xyudev"><img src="errors/facebook.png"></a>
+                                </div>
+                                <div class="icono go">
+                                    <a href="#" title=""><img src="errors/google.png"></a>
+                                </div>
+                                <div class="icono tw">
+                                    <a href="https://twitter.com/XyuDev" title="Xyudev"><img src="errors/twitter.png"></a>
+                                </div>
+                            </section>                    
+                        </div>
+                        <span class="skyd skyd1"></span>
+                        <span class="skyd skyd2"></span>
+                        <span class="skyd skyd3"></span>
+                        <span class="skyu skyu1"></span>
+                        <span class="skyu skyu2"></span>
+                        <span class="skyu skyu3"></span>
+                    </div>
+                </div>
+        </div>    
+    </body>
+</html>
+
