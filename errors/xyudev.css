@@ -1,3 +1,13 @@
+/*
+                     _            
+__  ___   _ _   _  __| | _____   __
+\ \/ / | | | | | |/ _` |/ _ \ \ / /
+ >  <| |_| | |_| | (_| |  __/\ V / 
+/_/\_\\__, |\__,_|\__,_|\___| \_/  
+      |___/                        
+
+Ola k Ase:)*/
+
 /*General*/
 body{
 	background: url(textura.png);
@@ -15,7 +25,10 @@ ul,li{
 	padding:0;}
 
 .logo{
-	background: white !important;
+	background: url(xyudev.png), white;
+	background-position: center;background-repeat: no-repeat;
+	width: 98px;
+	height: 78px;
 	border-radius: 16px;
 	display:inline-block;
 	box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);	

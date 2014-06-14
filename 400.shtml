@@ -2,10 +2,10 @@
 <html>
 <head>
     <meta charset="utf-8"/>
-    <title>Xyudev - HTTP ERROR 403</title>
+    <title>Xyudev - HTTP ERROR 400</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Xyudev"/>
-    <meta name="description" content="Xyudev - HTTP Error 403"/>
+    <meta name="description" content="Xyudev - HTTP Error 400"/>
 	
     <link rel="stylesheet" type="text/css" media="all" href="errors/xyudev.css">
     <link href='http://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
@@ -24,8 +24,8 @@
 				<div id="wrapper" class="clearfix">     
                     <div id="parallax">    
                         <div id="contenido">
-                            <h1>HTTP ERROR<br />403</h1>
-                            <p>Acceso Denegado/Prohibido.<br />La página que está buscando no está aquí.</p>
+                            <h1>HTTP ERROR<br />400</h1>
+                            <p>Solicitud Incorrecta.<br />La página que está buscando no está aquí.</p>
                             <a href="http://xyudev.com" class="logo" title="Ir a Xyudev"></a>
                             <section>
                                 <a href="http://facebook.com/Xyudev" class="icono fb" title="Xyudev Facebook"></a>
